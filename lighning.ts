@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function lighning() {magik.lightnig();}
+function lighning() {magik.lightnig();
 	
-
+}
